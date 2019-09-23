@@ -1,0 +1,17 @@
+{
+  "name": "localterminal",
+  "version": "1.0.0",
+  "description": "API that perfoms hardware tasks such as read a sensor or manage an actuator, and it's controller via http requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "Domotica",
+    "Http",
+    "Actuators",
+    "Sensors"
+  ],
+  "author": "Jan Gómez Escoda",
+  "license": "ISC"
+}
